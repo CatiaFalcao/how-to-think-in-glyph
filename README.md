@@ -60,6 +60,18 @@ It is a **thinking framework**.
 
 ---
 
+## 🧠 Guia Oficial — How to Think in GLYPH
+
+Além da especificação técnica do protocolo, o GLYPH conta com um guia conceitual e neuroinclusivo para aprendizagem do pensamento estruturado sobre problemas.
+
+📘 **How to Think in GLYPH**  
+Guia oficial para aprender a observar, formular e validar problemas usando o protocolo GLYPH, com atenção especial a diferentes estilos cognitivos (incluindo pessoas neurodivergentes).
+
+👉 Acesse o guia completo:  
+[How to Think in GLYPH — Guia Oficial](./How_to_Think_in_GLYPH)
+
+Este guia complementa o **GLYPH Core Protocol v1.0** e deve ser lido como material conceitual e educacional — não como um manual de soluções.
+
 ## 📚 Structure of this repository
 /chapters
 01-introduction.md
